@@ -22,6 +22,5 @@ In addition to the remote accessing we have a mobile remainder utility through w
 	Remotely ringing the smart phone when it is silent mode through simple message.
 	Changing the profile of the smart phone through simple messages.
 	Getting the location of the smart phone remotely through message.
-	Connecting and pairing with the external Bluetooth device for Bluetooth reminder.
 
 
